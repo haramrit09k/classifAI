@@ -1,0 +1,103 @@
+Unnamed: 0,review_id,pseudo_author_id,author_name,review_text,review_rating,review_likes,author_app_version,review_timestamp,review_length,review_year,review_month,review_day,predicted_label
+33275,c4c2a566-c5f8-43af-aafa-4163e3520c88,122492777936497371877,A Google user,Its an app to connect with professional people around the world.,5,0,3.3.2,2014-04-05 10:38:43,64.0,2014,4,5,Positive
+106313,41174fd1-5314-459b-965a-9479d0896a3a,274038057369475251205,A Google user,Excellent portal.,5,0,,2017-02-28 05:32:53,17.0,2017,2,28,Positive
+61685,0266f7e7-8ff3-4961-b64a-50a6f011edd1,318774556711082287630,A Google user,Remodeling and restoration,4,0,3.4.8,2015-04-08 01:19:08,26.0,2015,4,8,Positive
+183052,59245977-3ea7-4c63-b0ba-931648b410ae,213135838370736854638,Tr************on,Best Social Business app ever.,5,0,4.1.453,2020-05-28 21:41:10,30.0,2020,5,28,Positive
+75240,581b1e0b-5ed6-4f36-9aa3-dc574bd50fed,210983519304186756937,A Google user,Wonderful tool for networking and collaboration,5,0,3.5.3,2015-10-09 20:01:59,47.0,2015,10,9,Positive
+20677,576a97af-6c09-44d1-a666-7f33092ca8d1,249113846530985945375,A Google user,An excellent top quality app would recommend it highly to anyone,5,0,3.2.1,2013-11-15 20:53:44,64.0,2013,11,15,Positive
+95954,083a655c-4cbe-4db9-a8d9-bdbd63a3fa6b,289055115052272899472,A Google user,"Used to work fine, then I had to reset my phone and now it won't let me log in, says my login details are wrong even though I can log on perfectly well on my laptop. Tried re-installing but still doesn't work",1,8,4.0.68.1,2016-09-30 10:31:54,208.0,2016,9,30,Bug Report
+306298,fb59d196-7c23-4cda-be9b-d686472f3e65,317454837716187269168,mo**********an,Nice,5,0,1.0.0,2023-06-23 15:25:26,4.0,2023,6,23,Positive
+195446,0bb14f76-d03e-4892-bd56-f2aba5815865,223729593940741571964,IK***********NY,Excellent app,5,1,4.1.475,2020-08-03 06:22:44,13.0,2020,8,3,Positive
+118544,e398cadd-fe75-40c5-8439-c43b4f5d7790,962013755585858511791,A Google user,Get you connected!,4,0,,2017-10-21 22:16:04,18.0,2017,10,21,Positive
+141695,0c803716-5ce8-4043-8d2c-58f893269465,193595982362312650619,A Google user,Good app for allowing prospective employers to find you according to your skills. I've had some great job offers.,4,1,4.1.260,2019-01-17 16:35:44,113.0,2019,1,17,Positive
+305892,cb0a2124-4dc2-49e7-99c8-ef150b42d8e3,172170066562536151859,Ak*********re,Linkedin :jobs &business,5,0,4.1.726,2023-06-19 10:41:20,24.0,2023,6,19,Positive
+168355,0ab4c9fb-8bd6-4758-8f54-9b48d5b583d9,305281200603516387779,A Google user,LinkedIn crashed everytime I try to open new page,1,0,4.1.385,2019-12-09 05:22:07,49.0,2019,12,9,Bug Report
+185570,e5e0172d-e5ef-4d89-9b1c-8320c1c19ff2,546698445913566973010,Io************ey,Get connected with like minded humans 😊 Giving you positive support and direction.,5,0,4.1.456,2020-06-10 22:17:41,82.0,2020,6,10,Positive
+265602,129fa3db-36ba-431d-96a9-1422e7ed83b5,282303325850159543517,Ma*******el,A great place to network with the boys ;),5,0,4.1.685,2022-04-12 01:28:21,41.0,2022,4,12,Positive
+220300,fabc980d-d2b1-49b8-b77e-1c111d64b5cb,726435471258340963279,Ve*******up,Posts keep failing,2,0,4.1.542.1,2021-02-24 05:52:39,18.0,2021,2,24,Negative
+270996,c072b43c-1cea-4e10-91dc-ef99f5fb7def,187541527068644707465,UT*******AR,Good,4,0,1.0.0,2022-05-26 17:20:55,4.0,2022,5,26,Positive
+234420,fac961b9-122d-4cbb-9869-b93c483d70cc,111406225616013704762,SU***** G,Good 👍,5,0,4.1.589,2021-07-02 14:44:30,6.0,2021,7,2,Positive
+128347,9665502a-fce2-4994-b081-8972f2b0f2f5,240629798939065464535,A Google user,"I had to turn off notification for this app. It constantly creates one with 
+the text 'see what updates you might have missed'. It's very annoying. 
+Otherwise it's LinkedIn, it's a great app.",3,2,4.1.178,2018-05-31 06:45:58,191.0,2018,5,31,Positive
+238519,68cd745f-8b5a-49c9-bfb8-7cad2c30889b,264132094287816469722,Di********ta,Good,5,0,1.0.0,2021-08-11 13:32:38,4.0,2021,8,11,Positive
+127502,ac031fc9-b8e6-4d7f-aa6a-584592d4e0b5,274360114638527388788,A Google user,I like it,5,0,4.1.159,2018-05-12 12:18:44,9.0,2018,5,12,Positive
+148296,3557816c-64b4-499c-9122-dea1141feb2c,802493559320341985171,A Google user,to much overrated,2,0,4.1.289,2019-04-02 19:49:41,17.0,2019,4,2,Negative
+137887,e3e46f3f-02fc-43e0-b064-6b64455483bd,256007516772872335566,A Google user,All well,5,0,4.1.145,2018-11-17 09:58:06,8.0,2018,11,17,Positive
+261808,91188205-5122-4cac-8786-54dc13288bcd,100148716715847937295,Ka*****de,Not letting me up load my 9 pictures at a time I need this as it is for work purposes. Can this be looked into please,4,0,4.1.677,2022-03-11 19:14:05,117.0,2022,3,11,Positive
+320378,5d86850d-db6c-4212-87be-bd9a87675a15,132621133481530630277,Ki***********en,"Randomly enables ""job alerts"" notification spam.",1,0,4.1.875,2023-10-30 15:11:12,48.0,2023,10,30,Negative
+240651,017da3e0-f3f9-4629-9419-7b50b5638220,177723435539418994282,AR****AI,"Very good app for jobs, business communication.",5,3,4.1.609,2021-09-01 15:29:52,47.0,2021,9,1,Positive
+101865,5254194c-defb-41bd-b2a0-46fa80321951,165120444605866617765,A Google user,Excellent and I always love this app.,5,5,4.0.99,2016-12-15 16:40:05,37.0,2016,12,15,Positive
+4268,bb59748f-df38-4b47-a575-17038828de51,119624445148852464066,A Google user,Ok. Now they have definitely nailed it.,5,0,2.4.1,2012-05-08 19:59:48,39.0,2012,5,8,Positive
+255890,b21c78b2-9e07-4077-962e-0c931323f0e6,160370705049111239606,pr********le,"I have come to love the experience I have had so far, thanks alot",5,1,4.1.656.1,2022-01-23 18:59:35,65.0,2022,1,23,Positive
+195456,26dcd562-96ac-4ed3-ab58-dea7adb9ed71,216430912007164262102,Ha********na,Very good app,5,0,4.1.464,2020-08-03 08:14:57,13.0,2020,8,3,Positive
+195019,fd8bc39d-bf83-453d-a528-c2bff774e043,186375386829879945339,Tr********ls,Okay for managers of firms and companies but a bit OTT for the working class.,3,0,4.1.475,2020-07-30 18:54:35,77.0,2020,7,30,Positive
+46415,5c8946de-26b4-48a1-a8b5-f41dd8a35b92,293071996100567751157,A Google user,Awesome,5,0,3.4.1,2014-09-14 00:59:28,7.0,2014,9,14,Positive
+32173,846845b9-4999-4e58-83e4-8b2f67ab0506,515135779423114162822,A Google user,Great. Galaxy Note 2,5,0,3.3.1,2014-03-19 06:17:41,20.0,2014,3,19,Positive
+302412,dcb961d9-0d46-48d8-9ff4-abe46fa163fd,166849896480194807754,Pa*******ta,Padmavati namaste I am in the morning and have fun with your friends and family members and I will be there for u,4,0,,2023-05-06 14:00:22,113.0,2023,5,6,Positive
+290625,2e3c23d2-2588-4965-b927-a2b81d59e9f6,241875546332330412450,wi**********or,Easy to navigate. That's saying something for a 58 year old.,5,0,4.1.752,2022-11-12 20:10:15,60.0,2022,11,12,Positive
+129804,6ef003d6-1633-4677-971a-f9b73547e71e,247135811223758063514,A Google user,So easy link for any job......,5,0,4.1.117,2018-07-05 04:45:59,30.0,2018,7,5,Positive
+143323,be6cd7ea-db46-4849-9457-4036e7b59317,319536310943569213192,A Google user,very good,5,1,4.0.100,2019-02-13 06:37:42,9.0,2019,2,13,Positive
+143884,ba915066-01ed-4083-b9cb-8ca71d35674b,134169888711990225273,A Google user,great appppppp........,5,0,,2019-02-19 03:08:00,22.0,2019,2,19,Positive
+34626,3bf81610-4fee-4a66-8bec-a9cac1653618,208883426228590135993,A Google user,Great communication and network tool,5,1,3.3.2,2014-04-23 20:58:10,36.0,2014,4,23,Positive
+22911,9b542029-a8a8-4852-8cdc-85dd3483b18c,264694735616690290914,A Google user,Why i can not change my picture?,2,0,3.2.2,2013-12-18 17:20:54,32.0,2013,12,18,Negative
+57232,01155338-850b-4bdc-8099-8760a2d4a7ca,148683835952408056983,A Google user,Super apps,5,0,3.4.5,2015-02-04 07:59:59,10.0,2015,2,4,Positive
+73661,7a7000dd-ed77-45f1-9984-4c3eb0baa044,280670444359489072061,A Google user,"The app stops whenever I click on messages. Tried uninstalling anf restarting the phone but no luck. Looks like, LinkedIn has reached at the peak...time to descend.",3,0,3.5.2.1,2015-09-19 17:03:28,164.0,2015,9,19,Spam
+86264,9139bd5f-8909-4fac-8668-03f398d17352,740481939465434587831,A Google user,Great business application!!!,5,2,4.0.37,2016-04-21 13:48:29,29.0,2016,4,21,Positive
+287872,911cce00-8527-4d42-a6cd-51e695e9af47,266891140396662863580,Za*****************ri,Amazing app. You can connect with the whole world and can get hire in any country you want.,5,0,4.1.704,2022-10-03 18:27:12,91.0,2022,10,3,Positive
+322404,641e8390-0e29-4117-a0be-32ba940964aa,161451705365150231226,****,I learn lot of thing from linkdIn,5,1,4.1.884,2023-11-16 17:52:44,33.0,2023,11,16,Positive
+170035,b040a4db-adfc-4a8d-ba86-150bb1dec4f4,179952748553638464211,A Google user,Awesome,5,0,4.1.214,2019-12-26 07:23:46,7.0,2019,12,26,Positive
+59406,a6a90be6-5b60-481d-b9b2-4c00a5468303,215195868497831470998,A Google user,Can possibly land you a great job if you structure your profile right.,5,0,3.4.7,2015-03-05 23:27:05,70.0,2015,3,5,Positive
+240782,f0b32dad-63ef-4fb6-a9c7-007553d2cfb6,187577422637313409692,sa*********ar,No information of job in India. Very limited area to job opportunities.pls give the job opportunities in local.,5,0,4.1.612,2021-09-02 14:42:54,111.0,2021,9,2,Positive
+155072,4ffe7729-b800-4e0f-bc70-49f7013dc02e,818704847449643342183,A Google user,Best Connections and Serious.,5,0,4.1.317,2019-06-20 04:06:15,29.0,2019,6,20,Positive
+9537,44f1a9d9-748e-4a0d-9b5e-ac65b56fd087,282452376776408749035,A Google user,It's good. Doesn't jam like most such apps.,4,0,2.5.7,2013-02-16 15:41:57,43.0,2013,2,16,Positive
+308905,2fe1f97b-36f5-4365-8aea-df31df1c9b1b,545581804600074852623,Ab**************kh,Long time using but still not getting my job. 🙆.......7ùxdvjbjyrfhjjjigffcbnng,2,0,4.1.837,2023-07-21 19:11:00,78.0,2023,7,21,Negative
+87845,de50fdf8-5b1f-44bc-9ae0-9f4093fdf4ab,302580175549631403426,A Google user,Nice Social,5,2,4.0.43,2016-05-20 04:45:10,11.0,2016,5,20,Positive
+128838,bce1486d-dc3e-4b85-9ef2-7d4f233cc409,222875243999060390288,A Google user,"App keeps crashing whenever I try to unfollow updates to reduce number of  notifications Edit - note reply - I've already submitted crash feedback x2  via app, using latest version of app, OnePlus 6 using latest Oreo build.  Sorry don't have time to spend filling out other stuff, am sure crash  reports will have everything you need.  Not sure why you keep replying with the same generic comment - please READ what I've said and look at the crash reports.",2,42,4.1.184,2018-06-11 17:58:08,456.0,2018,6,11,Bug Report
+192353,70b8a896-a6af-45de-92c6-5a0bb6d10e7d,253030617340054544390,An*****************gh,"Its really very helpful application for our youngester,here they can find jobs easily according to their eligiblity, i stops our words....at the end this is an amazing app...😊",5,0,4.1.467,2020-07-14 14:37:52,175.0,2020,7,14,Positive
+278052,e7b2fee3-7338-4f9d-a142-e3eab256039b,388413330514632402679,Md******on,Good,5,0,4.1.709,2022-07-11 00:12:20,4.0,2022,7,11,Positive
+193079,f8c2b1ab-fc42-4f58-982b-39978484354a,132701296219447256260,Wo********se,Resourceful,3,0,4.1.470,2020-07-18 16:17:46,11.0,2020,7,18,Positive
+263016,2a57037a-2500-465f-b683-ce406b02b922,321255405564126142624,sh************ma,Best and very much useful app for Business group,5,0,4.1.679,2022-03-22 06:01:54,48.0,2022,3,22,Positive
+81426,b72f1009-e197-48c3-a499-6580bb8a71fb,129340080738794637779,A Google user,The recent update made me happy to use LinkedIn again. Awesome UI and editing features. Looking for more updates. Cheers ! ☺,5,4,4.0.16,2016-01-04 13:23:19,124.0,2016,1,4,Feature Request
+238397,011d9e1b-95b2-4979-9f20-6536c5abab27,810953520985933014248,Di*********ra,Good and stable app.,5,0,4.1.601,2021-08-10 13:35:35,20.0,2021,8,10,Positive
+134365,47e0af9e-e54c-44df-a8ee-e9bbe8037d05,309777121719216877941,A Google user,Just awesome,5,0,,2018-10-04 10:02:09,12.0,2018,10,4,Positive
+64032,aa2e4364-8a40-44de-8fe1-650729df395a,615088071718281975502,A Google user,This is horrible!  So slow to load. Other social apps are much quicker and more interactive.  Slow slow slow!,1,0,3.4.9,2015-05-12 03:29:51,109.0,2015,5,12,Negative
+57708,d0c5dcb4-5257-488b-905e-c03cf8781c36,380894785306741111616,A Google user,"In terms of smoothness the app runs pretty fluid and has capabilities comparable to that of its parent website. However, the ""compare yourself"" feature is bullshit. How is it that you quantify your success? Esp compare with others?",3,0,3.4.5,2015-02-11 00:36:56,231.0,2015,2,11,Feature Request
+180025,9d45291b-4d9c-4508-a4f7-2dfd1c2e3166,274433469833537583595,A Google user,It finds what i am sesrching for,5,0,,2020-04-21 07:09:27,32.0,2020,4,21,Positive
+90894,112cc5c1-88b9-4892-90a1-e1fca5eb5343,763983192887792052572,A Google user,Super,5,0,,2016-07-11 18:34:45,5.0,2016,7,11,Positive
+105167,308ea867-55c1-47fc-9597-cdb404704741,268732796519707859553,A Google user,Very awesome,5,0,,2017-02-08 14:14:41,12.0,2017,2,8,Positive
+112539,c12a584e-36d9-4ee2-bacd-a301a725d44b,279209150040854365437,A Google user,Crashes almost every time I use it. Must be some of the worst software ever written.,1,0,4.1.61,2017-06-28 00:27:52,84.0,2017,6,28,Bug Report
+100374,df00b59e-156e-4337-a930-87f0b0dc0fa8,953755222424207717457,A Google user,Career Footballer,5,0,4.0.89,2016-11-27 03:34:38,17.0,2016,11,27,Positive
+252947,22b726bc-889f-4fd9-8640-ff2a62d785fe,223072096798400944640,sa*******ar,Its good,5,0,1.0.0,2021-12-27 12:24:40,8.0,2021,12,27,Positive
+278870,b28d0902-5773-466b-aeb5-af8c1a8f09a5,681301751181202308180,Sa*********an,QPPPLĹ.o o9599,5,0,1.0.0,2022-07-17 00:12:40,14.0,2022,7,17,Positive
+20487,19bd1257-933e-4acb-83bd-285cd34be51c,312589190734729759125,A Google user,Nuff' said.,4,0,3.2.1,2013-11-12 16:00:08,11.0,2013,11,12,Positive
+142293,86256546-159e-4b7b-ada2-e662d4942551,339692541909258360800,A Google user,Nice but i couldn't down load video in samsungA7,5,0,4.1.256,2019-01-30 02:15:46,48.0,2019,1,30,Positive
+213130,5c9ccb26-9fd6-4fd7-a5b9-3c54da865fce,208117468483224037066,NI*********LE,This is is very good amazing application,5,0,,2020-12-17 08:13:54,40.0,2020,12,17,Positive
+58321,de07ba6e-188a-45ee-9a53-678777d0303e,641983763833423807976,A Google user,nicely,5,0,,2015-02-19 16:43:25,6.0,2015,2,19,Positive
+195926,643b9a92-1579-4ea0-a473-a4b7c9fa6eab,286003377878953003186,Md*****in,Good,5,0,4.1.475,2020-08-06 16:34:34,4.0,2020,8,6,Positive
+27846,a25dde1c-ca5c-41dc-93d8-c086b798b9a0,124571409381151098423,A Google user,Unknown,4,2,3.2.3,2014-02-06 12:46:20,,2014,2,6,Positive
+114087,cf39c928-9284-49ff-9479-b13b6d21d0ca,323907962701605611066,A Google user,Goo,4,0,4.0.86,2017-07-25 14:05:37,3.0,2017,7,25,Positive
+197065,1e1df4bb-7952-4533-b7c0-ab45f316e40c,564579345771329422627,no********ic,Odličan pet.,5,0,4.1.475,2020-08-14 16:45:36,12.0,2020,8,14,Positive
+130325,f98e423a-ab8a-40f4-af25-7ab524db2233,333094437693772584686,A Google user,Too good,4,0,,2018-07-18 11:19:34,8.0,2018,7,18,Positive
+58422,d78a6b87-37c1-406d-a5c9-de849282e900,118551164067969747957,A Google user,Good site,4,0,,2015-02-21 07:16:46,9.0,2015,2,21,Positive
+290182,1bf24266-9cc4-4c40-acd0-2a63b5e145e9,170849367502277427370,Nd******wu,Love 💘,5,0,1.0.0,2022-11-06 18:23:11,6.0,2022,11,6,Positive
+286128,9593c044-8e4b-4550-bf13-f7e1695a7b9d,118270892718757942745,Sa**********zi,Beter then,3,0,4.1.622,2022-09-09 17:17:56,10.0,2022,9,9,Positive
+53946,43040eba-2a02-4eef-8d9e-e3c0063ac068,294192080086739816393,A Google user,LinkedIn is one source where you'll share experiences beyond the horizon of the today individua to the world.,4,0,3.4.4,2014-12-20 08:58:04,109.0,2014,12,20,Positive
+149261,38e0f5ab-c3b0-4ec0-b465-ccc764f3aea5,335887808929054941617,A Google user,I prefer the web... the App. is really bad done,2,0,4.1.295,2019-04-12 15:00:44,47.0,2019,4,12,Negative
+217840,f024974d-7e75-4101-af71-f8cc80ca879a,194314402674275836863,Ma*************ah,Good,5,0,4.1.535,2021-02-03 03:51:00,4.0,2021,2,3,Positive
+285558,3f19e185-2149-4506-babd-074344331dc2,221171468987607240485,Ma*******ur,Good,5,0,4.1.729,2022-09-03 16:40:46,4.0,2022,9,3,Positive
+18259,3f8309c2-8990-4897-abac-8108f154cddc,539049726801452462942,A Google user,Works great,4,0,3.2,2013-10-21 04:12:00,11.0,2013,10,21,Positive
+251890,26722304-3ef9-4d23-92bd-2c66a8119dbe,712132830424734449775,Ca*******ms,Nice one 👍,5,0,4.1.558,2021-12-16 12:02:16,10.0,2021,12,16,Positive
+248763,6a5ff8e8-69b5-439b-82c0-47e9e51a182e,135755554732246295933,Mu*************in,Great,5,0,4.1.521,2021-11-16 20:17:41,5.0,2021,11,16,Positive
+257894,fa8c7cd3-ae4d-4def-a764-af77b56fe221,171176727807315098993,Pa************Tv,Nice one,5,0,,2022-02-09 09:39:33,8.0,2022,2,9,Positive
+38078,cf2ed776-2e41-4905-b1bb-b4d2ddb81f48,528368589531664228246,A Google user,access to server is very very slow.. cannot update my profile.,3,0,3.3.3,2014-06-11 02:02:42,62.0,2014,6,11,Positive
+101508,4d41a7be-cd58-4a12-93ac-a54817f67396,160222648123714807406,A Google user,Pretty gud,5,0,,2016-12-09 16:02:37,10.0,2016,12,9,Positive
+73254,8afcf333-a441-4967-a2a8-6f6d046d9134,266822003277449831152,A Google user,I had a linkedin account which was nt used much so i forgot password nw if i try to restore my password linked in sends a link on my mail id bt if i try to click dat link it says link has got expired i tried it 7-8 tyms still m nt able to restore my pass n login plz help me out,2,0,3.5.2.1,2015-09-14 18:01:34,278.0,2015,9,14,Spam
+308638,7475bea6-c9c2-46ce-bebf-5391d4a0d353,284508955677968152926,Pa*******na,Convenient job app!,5,0,,2023-07-19 01:31:05,19.0,2023,7,19,Positive
+187077,004415d4-9b32-43d6-a3bd-bc434e8b8a2b,163590464929707832520,Fu*********po,Excellent,5,0,4.1.459.1,2020-06-17 10:47:40,9.0,2020,6,17,Positive
+81455,05fe5095-57f7-4e83-a938-fa46e2fae26d,276460050834325812607,A Google user,Retired Self Employed,4,0,4.0.16,2016-01-05 07:30:54,21.0,2016,1,5,Positive
+113199,d3506455-09cc-4ea6-a339-193c51e9950d,765914226580262776434,A Google user,Its good plateform for proffessionals,5,0,3.3.3,2017-07-09 06:50:45,37.0,2017,7,9,Positive
+187450,0d982810-431e-46ad-ae17-6f01b8fbca47,115950868872534481379,No***************re,Good,5,0,4.1.330,2020-06-19 06:25:14,4.0,2020,6,19,Positive
+228023,9c7bf8bc-2dcb-47fa-8261-60358feb4c30,689740795845214028939,***,Good,5,0,4.1.538,2021-05-07 02:28:59,4.0,2021,5,7,Positive
+84864,646729c4-6c36-4cea-8575-513728cb84e9,173250245394945879818,A Google user,The inbox with the sent invitations is not found. At least i couldnt,1,0,,2016-03-20 01:42:08,68.0,2016,3,20,Negative
+173497,39cacccf-9a3f-48cd-83ab-d789367a439f,109402465307977135404,A Google user,This is wonderful plateform for sharing and commuicating good news,3,0,4.1.379,2020-02-05 14:36:09,66.0,2020,2,5,Positive
